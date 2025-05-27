@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>اتصل بنا</title>
+</head>
+<body>
+  <h2>اضغط للاتصال مباشرة</h2>
+  <a href="tel:01050050930" style="padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px;">اتصل الآن</a>
+</body>
+</html>
